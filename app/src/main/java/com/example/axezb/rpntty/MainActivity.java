@@ -58,7 +58,7 @@ public class MainActivity extends ActionBarActivity {
         FileOutputStream fos = null;
         try {
 
-            // Saving
+            // Saving function
 
         } catch (Exception ex) {
             Log.wtf("InternerSpeicher", "Fehler beim Lesen", ex);
